@@ -1,2 +1,2 @@
 # Sic-assembler
-A program that simulates how Sic assemblers work
+A Java program that simulates how Sic assemblers work
